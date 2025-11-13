@@ -60,6 +60,5 @@ This project implements a machine learning system for heart disease prediction u
 ## 🚀 Demo
 
 ### Live Demo
-You can access the live application by running:
-```bash
-streamlit run heart_disease_app.py
+You can access the live application by visiting the deployed website:
+[Heart_Disease_Predictor](https://heart-disease-predictor-new.streamlit.app/)
