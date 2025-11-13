@@ -391,7 +391,7 @@ def main():
                 st.markdown("---")
                 st.subheader("Prediction Results")
                 
-                if prediction == 1:
+                if prediction >= 0.5:
                     st.markdown(
                         f'<div class="prediction-box risk">'
                         f'<h2>🔴 HIGH RISK OF HEART DISEASE</h2>'
